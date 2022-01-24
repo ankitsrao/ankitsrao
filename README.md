@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
   -  LinkedIn: [@ankit-rao](https://www.linkedin.com/in/ankit-rao/)
-  -  Twitter: [@_AnkitRao] (https://twitter.com/_AnkitRao)
+  -  Twitter: [@_AnkitRao](https://twitter.com/_AnkitRao)
 
 <!---
 ankitsrao/ankitsrao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
