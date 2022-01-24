@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ankit Rao
 - 👀 I’m interested in Cloud and Cloud Security
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project that interests me.
 - 📫 How to reach me :
   -  LinkedIn: [@ankit-rao](https://www.linkedin.com/in/ankit-rao/)
   -  Twitter: [@_AnkitRao](https://twitter.com/_AnkitRao)
